@@ -40,10 +40,10 @@ public class Solution_1021 {
         return result;
     }
 
-    public static void main(String[] args){
-        String s = "()()";
-        Solution_1021 solution = new Solution_1021();
-        solution.removeOuterParentheses(s);
-
-    }
+//    public static void main(String[] args){
+//        String s = "()()";
+//        Solution_1021 solution = new Solution_1021();
+//        solution.removeOuterParentheses(s);
+//
+//    }
 }

@@ -16,10 +16,10 @@ public class Solution_1021_1 {
         return result.toString();
     }
 
-    public static void main(String[] args){
-        String s = "(())()";
-        Solution_1021_1 solution = new Solution_1021_1();
-        solution.removeOuterParentheses(s);
-
-    }
+//    public static void main(String[] args){
+//        String s = "(())()";
+//        Solution_1021_1 solution = new Solution_1021_1();
+//        solution.removeOuterParentheses(s);
+//
+//    }
 }

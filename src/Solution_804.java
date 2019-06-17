@@ -38,10 +38,10 @@ public class Solution_804 {
         return result;
     }
 
-    public static void main(String[] args){
-        String[] words = {"gin", "zen", "gig", "msg"};
-        Solution_804 solution = new Solution_804();
-        solution.uniqueMorseRepresentations(words);
-    }
+//    public static void main(String[] args){
+//        String[] words = {"gin", "zen", "gig", "msg"};
+//        Solution_804 solution = new Solution_804();
+//        solution.uniqueMorseRepresentations(words);
+//    }
 
 }
