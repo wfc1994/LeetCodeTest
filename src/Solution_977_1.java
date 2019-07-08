@@ -18,10 +18,10 @@ public class Solution_977_1 {
         return res;
     }
 
-    public static void main(String[] args){
-        int[] A = {3,4};
-        Solution_977_1 solution = new Solution_977_1();
-        solution.sortedSquares(A);
-
-    }
+//    public static void main(String[] args){
+//        int[] A = {3,4};
+//        Solution_977_1 solution = new Solution_977_1();
+//        solution.sortedSquares(A);
+//
+//    }
 }

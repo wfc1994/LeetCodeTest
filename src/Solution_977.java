@@ -72,10 +72,10 @@ public class Solution_977 {
         return result;
     }
 
-    public static void main(String[] args){
-        int[] A = {3,4};
-        Solution_977 solution = new Solution_977();
-        solution.sortedSquares(A);
-
-    }
+//    public static void main(String[] args){
+//        int[] A = {3,4};
+//        Solution_977 solution = new Solution_977();
+//        solution.sortedSquares(A);
+//
+//    }
 }
