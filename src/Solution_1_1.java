@@ -13,9 +13,9 @@ public class Solution_1_1 {
         throw new IllegalArgumentException("没有答案");
     }
 
-    public static void main(String[] args){
-        Solution_1_1 solution_1 = new Solution_1_1();
-        int[] nums = {3,3};
-        solution_1.twoSum(nums,6);
-    }
+//    public static void main(String[] args){
+//        Solution_1_1 solution_1 = new Solution_1_1();
+//        int[] nums = {3,3};
+//        solution_1.twoSum(nums,6);
+//    }
 }

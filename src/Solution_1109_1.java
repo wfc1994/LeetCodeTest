@@ -19,9 +19,9 @@ public class Solution_1109_1 {
         return res;
     }
 
-    public static void main(String[] args){
-        Solution_1109_1 solution_1109 = new Solution_1109_1();
-        int[][] bookings = {{1,2,10},{2,3,20},{2,5,25}};
-        solution_1109.corpFlightBookings(bookings,5);
-    }
+//    public static void main(String[] args){
+//        Solution_1109_1 solution_1109 = new Solution_1109_1();
+//        int[][] bookings = {{1,2,10},{2,3,20},{2,5,25}};
+//        solution_1109.corpFlightBookings(bookings,5);
+//    }
 }
