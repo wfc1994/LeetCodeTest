@@ -1,4 +1,4 @@
-import util.TreeNode;
+import DataStructure.TreeNode;
 
 public class Solution_617 {
     public TreeNode mergeTrees(TreeNode t1, TreeNode t2) {
